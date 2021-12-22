@@ -1,6 +1,11 @@
 # О Проекте "Iris"
-[![GitHub license](https://img.shields.io/github/license/CamilaTokisaki/Iris)](https://github.com/CamilaTokisaki/Iris/blob/main/LICENSE) ![Python Version](https://img.shields.io/badge/python-%3E%3D3.7-blue)   
+[![GitHub license](https://img.shields.io/github/license/CamilaTokisaki/Iris)](https://github.com/CamilaTokisaki/Iris/blob/main/LICENSE) ![Python Version](https://img.shields.io/badge/python-%3E%3D3.7-blue)    
+
 Проект "Ирис" является миниатюрным инструментом для диагностики компьютера, да, пока она мало чего умеет, но это временно
+
+### Язык справки   
+
+[Русский](https://github.com/CamilaTokisaki/Iris/blob/main/READMErus.md) | [English](https://github.com/CamilaTokisaki/Iris/blob/main/README.md)
 
 ## Установка
 
